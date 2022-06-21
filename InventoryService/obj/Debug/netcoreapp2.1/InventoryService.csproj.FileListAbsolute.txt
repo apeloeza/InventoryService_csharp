@@ -1,0 +1,7 @@
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csproj.AssemblyReference.cache
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfoInputs.cache
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfo.cs
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csproj.CoreCompileInputs.cache
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cache
+D:\my project\c#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cs
